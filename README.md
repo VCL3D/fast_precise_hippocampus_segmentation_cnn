@@ -57,7 +57,7 @@ git clone https://github.com/soumith/cudnn.torch.git -b R7 && cd cudnn.torch && 
 
 Install the `matio` package, following the instructions at https://github.com/soumith/matio-ffi.torch.
 
-Then, download the trained models from [here](https://drive.google.com/open?id=1csXnZm-EMxcP6U_cDpRIvp7s0LS58PcI) and extract the archive into the repository root directory.
+Then, download the trained models from [here](https://github.com/VCL3D/fast_precise_hippocampus_segmentation_cnn/releases/download/v1.0/models.tar) and extract the archive into the repository root directory.
 
 Finally, to perform the segmentation of the included MICCAI test samples, run:
 
